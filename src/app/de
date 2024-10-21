@@ -1,0 +1,30 @@
+</div>
+<div id="body" className="">
+    <div id="title">
+        <h1 className="text-4xl text-center mt-10">Exame de sangue</h1>
+    </div>
+    <div id="foto-exame" className="">
+        <div className="flex justify-center items-center mt-10">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HgNPdXTCXKQ?si=ic-mFvK_3UngnvIA"
+                title="YouTube video player" frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+        </div>
+        <div className="flex ml-24 mt-10"></div>
+        <div className="flex flex-col justify-center items-center mt-20">
+            <h1 className="text-2xl">Sobre o exame</h1>
+            <div className="flex mt-4">
+                <p className="text-xl mr-9">
+                    O exame de sangue é uma ferramenta fundamental no campo da medicina, oferecendo insights valiosos
+                    sobre a saúde e o bem-estar do paciente. Este procedimento simples e amplamente utilizado fornece
+                    uma riqueza de informações que os profissionais de saúde podem usar para diagnosticar condições
+                    médicas, monitorar tratamentos e prevenir doenças.
+                </p>
+                <img src="https://beepsaude.com.br/wp-content/uploads/2021/06/como-fazer-exame-de-sangue-beep-saude-3.jpg"
+                    alt="Exame" className="w-90 h-96 ml-5 mr-28" />
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+);
